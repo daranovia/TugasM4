@@ -1,10 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/4.5.2-bootstrap.min.css">
 
@@ -28,7 +21,7 @@
     <div class="container"> 
         <div class="row margin-top">
         <div class="col-md-6 side-image">
-                <img src="login.jpg" width="400" height="400">
+                <img src="../assets/img/login.jpg" width="400" height="400">
             </div>
             <div class="col-md-6">
                 <div class="card custom-card">
