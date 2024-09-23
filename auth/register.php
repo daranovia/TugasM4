@@ -1,9 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/4.5.2-bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <style>
@@ -32,7 +26,7 @@
         <div class="row margin-top">
 
             <div class="col-md-6 side-image">
-                <img src="register.jpg" width="400" height="400">
+                <img src="../assets/img/register.jpg" width="400" height="400">
             </div>
 
             <div class="col-md-6">
@@ -41,7 +35,7 @@
                         Register
                     </div>
                     <div class="card-body">
-                    <form action="regis.php" method="POST">
+                    <form action="auth.php" method="POST">
                     <div class="form-group">
                                 <label for="name">username</label>
                                 <input type="text" class="form-control" id="username" name="username" placeholder="Enter your name">
